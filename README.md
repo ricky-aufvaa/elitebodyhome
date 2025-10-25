@@ -280,12 +280,6 @@ CORS_ORIGINS=["https://yourdomain.com"]
 
 
 
-## 🔄 Version History
 
-- **v1.0.0** - Initial release with agentic RAG and React frontend
-- **v1.1.0** - Added session management and conversation memory
-- **v1.2.0** - Improved error handling and timeout fixes
-
----
 
 **Elite Body Home Polyclinic** - Advanced Medical Aesthetics & Wellness
